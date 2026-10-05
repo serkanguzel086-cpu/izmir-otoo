@@ -1,0 +1,21 @@
+{
+  "product": {
+    "required": ["sku","name","brand","category","price"],
+    "fields": {
+      "sku":"string",
+      "name":"string",
+      "brand":"string",
+      "category":"string",
+      "price":"number",
+      "currency":"TRY",
+      "stock":"number",
+      "manufacturer_part_no":"string",
+      "oem_numbers":["string"],
+      "description":"string",
+      "images":["url"],
+      "vehicle_compatibility":[
+        {"make":"string","model":"string","year_from":"number","year_to":"number","engine":"string","fuel":"string","body":"string"}
+      ]
+    }
+  }
+}

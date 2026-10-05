@@ -1,0 +1,10 @@
+[
+ {"sku":"55108602","name":"Trafik Seti Yangın Tüplü","brand":"OPAR","category":"Diğer Ürünler","price":1356.05,"vehicle":["Fiat Linea","Fiat Egea","Fiat Doblo"]},
+ {"sku":"1694007480","name":"Ön Fren Balatası Takım","brand":"OPAR","category":"Fren","price":6991.46,"vehicle":["Peugeot Expert","Citroen Jumpy","Fiat Scudo"]},
+ {"sku":"9824116780","name":"Şanzıman Takozu","brand":"OPAR","category":"Motor","price":3690.19,"vehicle":["Fiat Doblo","Jeep Renegade","Fiat Panda"]},
+ {"sku":"52180298","name":"Yardımcı Elektrikli Su Dağıtıcı Pompası","brand":"OPAR","category":"Motor","price":13243.61,"vehicle":["Fiat 500X","Jeep Compass","Jeep Renegade"]},
+ {"sku":"9849122880","name":"Ön Amortisör Sağ/Sol","brand":"OPAR","category":"Aks / Tekerlek","price":11799.41,"vehicle":["Fiat Topolino","Citroen Ami"]},
+ {"sku":"46341758","name":"Otomatik Vites Aktivatör Robotu Komple","brand":"OPAR","category":"Şanzıman","price":223645.69,"vehicle":["Fiat 500X","Jeep Compass","Fiat Egea"]},
+ {"sku":"55255416","name":"Enjeksiyon Mazot Pompası 1.3 Multijet","brand":"OPAR","category":"Motor","price":73000,"vehicle":["Fiat Linea","Fiat Punto","Fiat Doblo"]},
+ {"sku":"46760674","name":"Amortisör Üst Takozu Sol","brand":"OPAR","category":"Aks / Tekerlek","price":2338.45,"vehicle":["Fiat Palio","Fiat Albea","Fiat Doblo"]}
+]
